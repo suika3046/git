@@ -1,0 +1,14 @@
+{
+  "name": "suika3046",
+  "version": "1.0.3",
+  "description": "test npm publish!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "suika3046"
+  ],
+  "author": "suika3046",
+  "license": "ISC"
+}
